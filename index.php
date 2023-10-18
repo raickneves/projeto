@@ -13,7 +13,7 @@
         <tr><td>Nome <td>Foto <td>Adm
         <tr><td>Nome <td>Foto <td>Adm
         <tr><td>Nome <td>Foto <td>Adm
-        <tr><td>Nome <td>Foto <td>Ad
+        <tr><td>Nome <td>Foto <td>Adm
     </table>
     </div>
     
